@@ -1,7 +1,7 @@
 # Word Syllable Counter
 
 ## Description
-Count the syllable of a word in Indonesian. Improvement is needed as this was implemented fully based on the suggested FSA design by Thomas, and the flaws was stated. Details on the designed FSA can be found in the provided PDF file (AnungFinal.pdf).
+Count the syllable of a word in Indonesian. Improvement is needed as this was implemented fully based on the suggested FSA design by Thomas, and the flaws was stated. Details on the designed FSA can be found in the provided PDF file ([AnungFinal.pdf](/AnungFinal.pdf)).
 
 ## Preview
 ![Single Test](/../screenshots/screenshots/main-single.jpg?raw=true "Single Test")
