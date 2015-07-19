@@ -1,8 +1,12 @@
-# syllable-count
-This script is coded using the designed Finite-State Automata by Thomas Anung Basuki.
-Details on the designed FSA can be found in the provided PDF file (AnungFinal.pdf).
+# Word Syllable Counter
 
+## Description
+Count the syllable of a word in Indonesian. Improvement is needed as this was implemented fully based on the suggested FSA design by Thomas, and the flaws was stated. Details on the designed FSA can be found in the provided PDF file (AnungFinal.pdf).
 
+## Preview
+![Single Test](/../screenshots/screenshots/main-single.jpg?raw=true "Single Test")
+
+## License
 Copyright © 2000 rudolf <rudolf_bast@live.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
